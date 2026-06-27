@@ -304,54 +304,102 @@ This project serves as the foundation for future Lighthouse Technology domains f
 
 ---
 
+---
+
 # 👨🏾‍💻 Author
 
-## BASSEY SOLOMON HENRY
+# BASSEY SOLOMON HENRY
 
-**Cybersecurity Engineer | SOC Analyst | Detection Engineer | Purple Team | Enterprise Security Researcher**
+**Cybersecurity Engineer | SOC Analyst | Detection Engineer | Purple Team | Active Directory Security | Enterprise Security Researcher**
 
-Passionate about designing enterprise-scale security laboratories that simulate real-world adversary techniques, validate defensive controls, and bridge the gap between offensive security, detection engineering, and Security Operations Center (SOC) practices.
+Passionate about building enterprise-scale cybersecurity laboratories that simulate real-world adversary techniques, validate defensive controls, and bridge the gap between offensive security, detection engineering, digital forensics, and Security Operations Center (SOC) practices.
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
-💼 **LinkedIn**
+💼 **LinkedIn**  
 https://www.linkedin.com/in/bassey-solomon-henry/
 
-🌐 **GitHub Portfolio**
+🌐 **GitHub Portfolio**  
 https://github.com/solomonhenry-afk/Bassey-Solomon-Henry
 
 📂 **Project Repository**
 
-*(https://github.com/solomonhenry-afk/DOMAIN-1-SOC-Operations-Detection-Engineering-and-Threat-Hunting/edit/main/README.md)*
+[https://github.com/solomonhenry-afk/Enterprise-SOC-Telemetry-Detection-Engineering](https://github.com/solomonhenry-afk/DOMAIN-1-SOC-Operations-Detection-Engineering-and-Threat-Hunting
 
 📧 **Email**
 
-[solomon_henry111@outlook.com](mailto:solomon_henry111@outlook.com)
+solomon_henry111@outlook.com
 
 ---
 
-##  Enterprise Security Evolution Series
+#  Enterprise Security Evolution Series
 
-This repository is part of my **Enterprise Security Evolution** portfolio—a multi-domain cybersecurity engineering journey documenting enterprise infrastructure, detection engineering, adversary emulation, Purple Team operations, and incident response using industry-standard tools and real-world methodologies.
+This repository is part of my **Enterprise Security Evolution** portfolio—a multi-domain cybersecurity engineering journey documenting enterprise infrastructure, telemetry engineering, detection engineering, Active Directory security, adversary emulation, Purple Team operations, digital forensics, and incident response using industry-standard methodologies and tools.
+
+The complete series demonstrates how enterprise security programs evolve from infrastructure visibility and log collection to adversary simulation, threat detection, and incident response validation.
 
 ---
 
-##  If You Found This Project Valuable
+#  Tech Stack
 
-If this repository helped you learn something new about enterprise security, consider:
+<p align="center">
 
-⭐ Starring the repository
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 
-💬 Sharing feedback or opening an issue
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 
-🤝 Connecting with me on LinkedIn
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
-Security grows stronger when knowledge is shared.
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kerberos-5A2D82?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SIEM-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat_Hunting-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Purple_Team-6F42C1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+#  GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=solomonhenry-afk&show_icons=true&theme=chartreuse-dark"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonhenry-afk&layout=compact&theme=chartreuse-dark"/>
+
+</p>
+
+---
+
+# Support This Project
+
+If you found this project valuable:
+
+⭐ Star the repository
+
+💬 Share your feedback
+
+🤝 Connect with me on LinkedIn
+
+Knowledge shared is security multiplied.
 
 ---
 
 **Security is not measured by preventing every attack. It is measured by understanding systems deeply enough to detect, investigate, and continuously improve against evolving threats.**
 
-— **Solomon Henry**
+**— Solomon Henry**
