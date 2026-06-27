@@ -304,6 +304,54 @@ This project serves as the foundation for future Lighthouse Technology domains f
 
 ---
 
-## DOMAIN 1 STATUS
+# 👨🏾‍💻 Author
 
-COMPLETE
+## BASSEY SOLOMON HENRY
+
+**Cybersecurity Engineer | SOC Analyst | Detection Engineer | Purple Team | Enterprise Security Researcher**
+
+Passionate about designing enterprise-scale security laboratories that simulate real-world adversary techniques, validate defensive controls, and bridge the gap between offensive security, detection engineering, and Security Operations Center (SOC) practices.
+
+---
+
+## 🔗 Connect With Me
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/bassey-solomon-henry/
+
+🌐 **GitHub Portfolio**
+https://github.com/solomonhenry-afk/Bassey-Solomon-Henry
+
+📂 **Project Repository**
+
+*(https://github.com/solomonhenry-afk/DOMAIN-1-SOC-Operations-Detection-Engineering-and-Threat-Hunting/edit/main/README.md)*
+
+📧 **Email**
+
+[solomon_henry111@outlook.com](mailto:solomon_henry111@outlook.com)
+
+---
+
+##  Enterprise Security Evolution Series
+
+This repository is part of my **Enterprise Security Evolution** portfolio—a multi-domain cybersecurity engineering journey documenting enterprise infrastructure, detection engineering, adversary emulation, Purple Team operations, and incident response using industry-standard tools and real-world methodologies.
+
+---
+
+##  If You Found This Project Valuable
+
+If this repository helped you learn something new about enterprise security, consider:
+
+⭐ Starring the repository
+
+💬 Sharing feedback or opening an issue
+
+🤝 Connecting with me on LinkedIn
+
+Security grows stronger when knowledge is shared.
+
+---
+
+**Security is not measured by preventing every attack. It is measured by understanding systems deeply enough to detect, investigate, and continuously improve against evolving threats.**
+
+— **Solomon Henry**
